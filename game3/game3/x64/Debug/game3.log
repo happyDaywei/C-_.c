@@ -1,0 +1,4 @@
+﻿  game.c
+E:\c代码\game3\game3\game.c(9,10): warning C4013: “rand”未定义；假设外部返回 int
+  LINK : 没有找到 E:\c代码\game3\x64\Debug\game3.exe 或上一个增量链接没有生成它；正在执行完全链接
+  game3.vcxproj -> E:\c代码\game3\x64\Debug\game3.exe
